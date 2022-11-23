@@ -103,6 +103,13 @@
             "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/listofdefaults.sql"
         }
     },
+    "PEPFAR_ MER_2.3_TX-CURR": {
+      "name": "PEPFAR_ MER_2.3_TX-CURR",
+      "type": "MRSGeneric",
+      "config": {
+            "sqlPath" : "/var/www/bahmni_config/openmrs/apps/reports/sql/PEPFAR_MER_2.3_TX-CURR.sql"
+      }
+    },
     "openelis": {
         "name": " Lista de exames laboratoriais",
         "titleKey" : "LAB_REQUESTS_LIST",
